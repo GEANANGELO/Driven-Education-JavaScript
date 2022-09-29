@@ -1,3 +1,4 @@
+//FUNCAO COM CONDIÇÃO IF e ELSE
 function calculaMedia(n1, n2, n3, n4){
     let media = (n1 + n2 + n3 + n4)/4;
     let aprovado= "APROVADO! sua media é  = " + media;
