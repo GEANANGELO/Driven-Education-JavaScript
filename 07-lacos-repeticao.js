@@ -24,8 +24,8 @@ console.log(umBridge());
 function umBridge(){    
     let frase = "";
                //cont=cont + 1;
-    for(let cont=0;cont < 10; cont++ ){
-        frase +="--mentir tira a confiança--"; //frase=frase + "texto"
+    for(let cont=0;cont <= 10; cont++ ){
+        frase += cont + "--mentir tira a confiança  " ; //frase=frase + "texto"
         
     }
     return frase;
